@@ -1,1 +1,2 @@
 - use with: https://github.com/OpenMultiBoxing/OpenMultiBoxing
+- and Jamba addon: https://legacy-wow.com/wotlk-addons/jamba/
