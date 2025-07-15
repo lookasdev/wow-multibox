@@ -1,8 +1,9 @@
 - OMB software: https://github.com/OpenMultiBoxing/OpenMultiBoxing
 - Jamba addon: https://legacy-wow.com/wotlk-addons/jamba/
 - AutoHotKey (choose v1.1): https://www.autohotkey.com/
+- recommended server: Warmane's Icecrown (x7 xp rates)
 
-# OpenMultiBoxing (OMB) Setup Guide
+# Multibox Setup Guide
 
 ## 1. Initial Setup
 
